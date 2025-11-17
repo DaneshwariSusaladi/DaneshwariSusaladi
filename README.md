@@ -1,16 +1,25 @@
-## Hi there 👋
+## Daneshwari Susaladi
 
-<!--
-**DaneshwariSusaladi/DaneshwariSusaladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I'm a Information Science engineering student passionate about building real-world web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technical Skills:
+
+Languages: Python (Intermediate), Java (Intermediate), SQL (Intermediate)
+Web: HTML, CSS, JavaScript (Intermediate), React (Novice)
+UI/UX: Figma (Novice), Canva (Intermediate)
+DevOps: Ubuntu CLI, Git & GitHub (Intermediate)
+AI/ML: Beginner knowledge of AI assistants and GenAI-based projects
+🚀 Goals:
+
+Open Source Contributor 🌍.
+Exploring the MERN stack and real-world AI solutions.
+Building projects that solve problems in healthcare, education, and enterprise tech.
+🤝 I’m open to collaborating on:
+
+Python & JavaScript-based tools
+UI/UX design for student-focused platforms
+Documentation & README writing
+📫 How to reach me: daneshwarisusaladi286@gmail.com
+
+🧠 Fun fact: I enjoy turning complex tech into creative, usable solutions!
